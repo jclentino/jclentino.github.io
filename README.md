@@ -9,7 +9,7 @@
 - mis primeros commit 
 - visualizacion de primeros commits 
 
-# 1.2 
+# 1.2 .
 - crear ramas 
 - visualizar ramas que tenemos  
 - pasear entre distintas ramas 
