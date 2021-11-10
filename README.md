@@ -2,14 +2,14 @@
 
 # FASE 1  
 
-# 1.1  ...
+# 1.1  
 - 3 estados de git 
 - Comandos basicos 
 - navegando y experimentando entre los distintos estados 
 - mis primeros commit 
 - visualizacion de primeros commits 
 
-# 1.2 
+# 1.2 ...
 - crear ramas 
 - visualizar ramas que tenemos  
 - pasear entre distintas ramas 
